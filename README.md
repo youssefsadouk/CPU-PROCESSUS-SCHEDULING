@@ -21,12 +21,13 @@ To get started, clone this repository to your local machine:
 
 bash
 
-git clone https://github.com/your_username/cpu-scheduling-algorithms.git
+git clone https://github.com/youssefsadouk/CPU-SCHEDULING-SIMULATOR.git
 
 Then open the project in Qt Creator and build it.
 # How to Use
 
 Once the project is built, you can run the executable file to launch the CPU scheduling simulator. The simulator allows you to simulate different CPU scheduling algorithms by entering the process details (arrival time, burst time, priority) and setting the time quantum for the Round Robin algorithm. The simulator will then display the Gantt chart and calculate the waiting time, turnaround time, and average waiting time for the processes.
-#Contributing
+
+# Contributing
 
 If you find a bug or have a feature request, please open an issue in the GitHub repository. Pull requests are also welcome.
